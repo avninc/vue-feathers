@@ -17,8 +17,6 @@
     "url": "https://github.com/sunabozu/vue-feathers/issues"
   },
   "homepage": "https://github.com/sunabozu/vue-feathers#readme",
-  "dependencies": {
-    "feathers": "*"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
